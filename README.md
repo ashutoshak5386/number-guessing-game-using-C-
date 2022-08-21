@@ -1,4 +1,4 @@
-# number-guessing-game-using-C-
+# number-guessing-game-using-Cs
 
 it takes input between 1-100
 
